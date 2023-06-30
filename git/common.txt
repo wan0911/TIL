@@ -2,4 +2,6 @@ functino b() {
 }
 function a {
 }
+function c() {
+}
 
