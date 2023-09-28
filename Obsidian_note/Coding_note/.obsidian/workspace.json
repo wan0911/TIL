@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "옵시디언 플러그 리스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "옵시디언 플러그 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "옵시디언 플러그 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "옵시디언 플러그 리스트.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "47c9b17a8310eafe",
   "lastOpenFiles": [
-    ",..md",
     "README.md",
+    ",..md",
     "옵시디언 플러그 리스트.md",
     "C_sharp/Csharp.md",
     "Todo.md",
