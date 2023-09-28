@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "8b2ad88bd41c7743",
+    "type": "split",
+    "children": [
+      {
+        "id": "c16bea382d06cb02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "127f38256f3cd972",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca7e1287bb357143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian_setting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1fddfe6b03c5baf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "244984e5be61dbe5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a382cce2ba2c841",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2b0414ea672c059",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba57478b67e30a31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3998b7281dae3204",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5ddd4be0caa11bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ae4d5956f3d6eb0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian_setting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "732f732b66ab5e2b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian_setting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b2d19566eaf9985",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8748953692c080de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian_setting.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-to-notion:Share to notion": false
+    }
+  },
+  "active": "ca7e1287bb357143",
+  "lastOpenFiles": [
+    "obsidian_setting.md",
+    "디자인패턴 562a76b038fa46dd82212703a02fdc6b.md",
+    "콤보박스 데이터바인딩 ad5acc8a140a449f84428b083b56194a.md",
+    "C# c818f593b4dd44aab395a09c5d26f3e2.md",
+    "Untitled 1 3.png",
+    "Untitled.png",
+    "https www youtube com watch v=W-cxtKRrpVg&list=PLl cbd38193fe1241349f10b58f3488f904.md",
+    "https www inflearn com course 웹개발-풀스택-데 d9308bda00704cbb9ab7b3198fcbf513.md",
+    "https jasmintime com 406 568fb2058f6b4913a66578c0a53e95d6.md",
+    "https dev grapecity co kr bbs board php bo_table=c b71d3b8021844c04b65f1eaf6c0b22be.md",
+    "C# 13b6ef4aafb04ecca3eef3673d7d1ddd.md",
+    "제목 없음 3369c89140f34b58a00ec6da63247321.md",
+    "리팩토링 348a6aaede054ddb8e0c5976b572002e.md",
+    "WPF 16abaeb445d2406eb6d5b70ce6a12f93.md",
+    "Untitled 2 3.png",
+    "Untitled 15.png",
+    "Untitled 11 2.png",
+    "Untitled 10 2.png",
+    "Untitled 9 2.png",
+    "Untitled 8 2.png",
+    "Untitled 7 2.png",
+    "Untitled 6 2.png",
+    "https onlab94 tistory com 361 cdcd5740f5d14998b9206f5c8715f5f0.md",
+    "https inpa tistory com entry DB-📚-데이터-모델링- afd9a27acf5a48e5be7ec4d2606357f6.md",
+    "https velog io @wnsxor1993 MVVM-Clean-Architecture 4ed8604c088b4285bee9217a3be6ab89.md",
+    "공부 자료 5bfbf41303094a3da82f2af7edc1f595_all.csv",
+    "C_sharp",
+    "WPF 16abaeb445d2406eb6d5b70ce6a12f93/Untitled 2.png.md",
+    "WPF 16abaeb445d2406eb6d5b70ce6a12f93",
+    "C_sharp.md",
+    "WPF 16abaeb445d2406eb6d5b70ce6a12f93/공부 자료 5bfbf41303094a3da82f2af7edc1f595/콤보박스 데이터바인딩 ad5acc8a140a449f84428b083b56194a.md",
+    "WPF 16abaeb445d2406eb6d5b70ce6a12f93/공부 자료 5bfbf41303094a3da82f2af7edc1f595/제목 없음 3369c89140f34b58a00ec6da63247321.md",
+    "WPF 16abaeb445d2406eb6d5b70ce6a12f93/공부 자료 5bfbf41303094a3da82f2af7edc1f595/https www youtube com watch v=W-cxtKRrpVg&list=PLl cbd38193fe1241349f10b58f3488f904.md",
+    "WPF 16abaeb445d2406eb6d5b70ce6a12f93/공부 자료 5bfbf41303094a3da82f2af7edc1f595/https www inflearn com course 웹개발-풀스택-데 d9308bda00704cbb9ab7b3198fcbf513.md",
+    "WPF 16abaeb445d2406eb6d5b70ce6a12f93/공부 자료 5bfbf41303094a3da82f2af7edc1f595/https velog io @wnsxor1993 MVVM-Clean-Architecture 4ed8604c088b4285bee9217a3be6ab89.md",
+    "WPF 16abaeb445d2406eb6d5b70ce6a12f93/공부 자료 5bfbf41303094a3da82f2af7edc1f595/https onlab94 tistory com 361 cdcd5740f5d14998b9206f5c8715f5f0.md",
+    "WPF 16abaeb445d2406eb6d5b70ce6a12f93/공부 자료 5bfbf41303094a3da82f2af7edc1f595/https jasmintime com 406 568fb2058f6b4913a66578c0a53e95d6.md",
+    "WPF 16abaeb445d2406eb6d5b70ce6a12f93/공부 자료 5bfbf41303094a3da82f2af7edc1f595/https inpa tistory com entry DB-📚-데이터-모델링- afd9a27acf5a48e5be7ec4d2606357f6.md",
+    "WPF 16abaeb445d2406eb6d5b70ce6a12f93/공부 자료 5bfbf41303094a3da82f2af7edc1f595/https dev grapecity co kr bbs board php bo_table=c b71d3b8021844c04b65f1eaf6c0b22be.md",
+    "WPF 16abaeb445d2406eb6d5b70ce6a12f93/공부 자료 5bfbf41303094a3da82f2af7edc1f595_all.csv",
+    "WPF 16abaeb445d2406eb6d5b70ce6a12f93/공부 자료 5bfbf41303094a3da82f2af7edc1f595.csv",
+    "WPF 16abaeb445d2406eb6d5b70ce6a12f93/공부 자료 5bfbf41303094a3da82f2af7edc1f595",
+    "C# c818f593b4dd44aab395a09c5d26f3e2",
+    "디자인패턴 562a76b038fa46dd82212703a02fdc6b"
+  ]
+}
