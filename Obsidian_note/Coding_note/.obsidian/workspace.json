@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C_sharp/Csharp.md",
+                "file": "옵시디언 플러그 리스트.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "47c9b17a8310eafe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0622b7af4dcc11a1",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Todo.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C_sharp/Csharp.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C_sharp/Csharp.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +148,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C_sharp/Csharp.md"
+                "file": "README.md"
               }
             }
+          },
+          {
+            "id": "a6f21931e62445e3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -145,13 +177,16 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-to-notion:Share to notion": false,
-      "obsidian-importer:Open Importer": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "191277061cbfc663",
+  "active": "47c9b17a8310eafe",
   "lastOpenFiles": [
-    "obsidian_setting.md",
+    ",..md",
+    "README.md",
+    "옵시디언 플러그 리스트.md",
     "C_sharp/Csharp.md",
+    "Todo.md",
     "C_sharp/C#.md",
     "C# c818f593b4dd44aab395a09c5d26f3e2.md",
     "디자인패턴 562a76b038fa46dd82212703a02fdc6b.md",
@@ -182,12 +217,9 @@
     "C_sharp/WPF .md",
     "C_sharp/리팩토링.md",
     "C_sharp/디자인패턴.md",
-    "무제 파일.md",
     "Coding.md",
     "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595/콤보박스 데이터바인딩 ad5acc8a140a449f84428b083b56194a.md",
     "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595/제목 없음 3369c89140f34b58a00ec6da63247321.md",
-    "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595/https www youtube com watch v=W-cxtKRrpVg&list=PLl cbd38193fe1241349f10b58f3488f904.md",
-    "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595/https www inflearn com course 웹개발-풀스택-데 d9308bda00704cbb9ab7b3198fcbf513.md",
     "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595_all.csv",
     "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595.csv",
     "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595",
