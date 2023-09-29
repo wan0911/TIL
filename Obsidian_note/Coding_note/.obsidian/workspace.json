@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/git 정리.md",
+                "file": "C_sharp/C sharp/✨ 일반화 프로그래밍.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,26 +23,11 @@
             "id": "f0498e4d9e3ecc86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C_sharp/C#.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0622b7af4dcc11a1",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Todo.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C_sharp/C#.md",
+                "file": "C_sharp/C sharp/✨ 일반화 프로그래밍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C_sharp/C#.md",
+                "file": "C_sharp/C sharp/✨ 일반화 프로그래밍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C_sharp/C#.md"
+                "file": "C_sharp/C sharp/✨ 일반화 프로그래밍.md"
               }
             }
           },
@@ -176,36 +161,44 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-to-notion:Share to notion": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "f0498e4d9e3ecc86",
+  "active": "191277061cbfc663",
   "lastOpenFiles": [
-    "C_sharp/C.md",
-    "Git/git 정리.md",
-    "Git/clone.md",
-    "C_sharp/C#.md",
+    "source",
+    "source/Pasted image 20230929161401.png",
+    "C_sharp/C sharp/프로퍼티.md",
+    "C_sharp/C sharp/✨ 일반화 프로그래밍.md",
+    "C_sharp/C sharp/C#.md",
+    "source/Pasted image 20230929155918.png",
+    "C_sharp/C sharp/method.md",
+    "C_sharp/C sharp",
+    "Git/0. git 정리.md",
     "Git/git 연결.md",
+    "Git/clone.md",
+    "공부 목록/Todo.md",
+    "C_sharp/디자인패턴.md",
+    "C_sharp/리팩토링.md",
+    "C_sharp/Csharp.md",
+    "C_sharp/WPF .md",
+    "Todo 1.md",
+    "공부 목록",
+    "C_sharp/C.md",
     "clone.md",
     "옵시디언 플러그 리스트.md",
     "README.md",
-    "Todo.md",
     "git 정리.md",
     "Git",
     "1.test.md",
     "0.test.md",
     "2023-09-29.md",
     ",..md",
-    "C_sharp/Csharp.md",
     "C# c818f593b4dd44aab395a09c5d26f3e2.md",
     "디자인패턴 562a76b038fa46dd82212703a02fdc6b.md",
     "제목 없음 3369c89140f34b58a00ec6da63247321.md",
-    "https dev grapecity co kr bbs board php bo_table=c b71d3b8021844c04b65f1eaf6c0b22be.md",
-    "리팩토링 348a6aaede054ddb8e0c5976b572002e.md",
-    "https inpa tistory com entry DB-📚-데이터-모델링- afd9a27acf5a48e5be7ec4d2606357f6.md",
     "Untitled 5 2.png",
-    "https velog io @wnsxor1993 MVVM-Clean-Architecture 4ed8604c088b4285bee9217a3be6ab89.md",
     "Untitled 2 3.png",
     "Untitled 1 3.png",
     "Untitled 15.png",
@@ -213,20 +206,11 @@
     "Untitled 10 2.png",
     "Untitled 9 2.png",
     "Untitled 8 2.png",
-    "Untitled 7 2.png",
-    "Untitled 6 2.png",
-    "https www inflearn com course 웹개발-풀스택-데 d9308bda00704cbb9ab7b3198fcbf513.md",
-    "https onlab94 tistory com 361 cdcd5740f5d14998b9206f5c8715f5f0.md",
-    "https www youtube com watch v=W-cxtKRrpVg&list=PLl cbd38193fe1241349f10b58f3488f904.md",
-    "콤보박스 데이터바인딩 ad5acc8a140a449f84428b083b56194a.md",
     "공부 자료 5bfbf41303094a3da82f2af7edc1f595_all.csv",
     "coding",
     "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595_all.csv",
     "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595.csv",
     "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595",
-    "C_sharp/WPF",
-    "C_sharp/C#",
-    "C_sharp/디자인패턴",
-    "C_sharp"
+    "C_sharp/WPF"
   ]
 }

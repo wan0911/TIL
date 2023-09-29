@@ -1,3 +1,5 @@
 {
-  "attachmentFolderPath": "C_sharp/디자인패턴"
+  "attachmentFolderPath": "C_sharp/디자인패턴",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
