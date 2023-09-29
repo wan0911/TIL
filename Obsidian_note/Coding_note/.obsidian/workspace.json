@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/gitgit.md",
+                "file": "Git/git 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0498e4d9e3ecc86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C_sharp/C#.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/gitgit.md",
+                "file": "C_sharp/C#.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/gitgit.md",
+                "file": "C_sharp/C#.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/gitgit.md"
+                "file": "C_sharp/C#.md"
               }
             }
           },
@@ -167,20 +180,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "191277061cbfc663",
+  "active": "f0498e4d9e3ecc86",
   "lastOpenFiles": [
+    "C_sharp/C.md",
+    "Git/git 정리.md",
+    "Git/clone.md",
+    "C_sharp/C#.md",
+    "Git/git 연결.md",
+    "clone.md",
+    "옵시디언 플러그 리스트.md",
+    "README.md",
     "Todo.md",
-    "Git/gitgit.md",
     "git 정리.md",
     "Git",
-    "README.md",
-    "옵시디언 플러그 리스트.md",
     "1.test.md",
     "0.test.md",
     "2023-09-29.md",
     ",..md",
     "C_sharp/Csharp.md",
-    "C_sharp/C#.md",
     "C# c818f593b4dd44aab395a09c5d26f3e2.md",
     "디자인패턴 562a76b038fa46dd82212703a02fdc6b.md",
     "제목 없음 3369c89140f34b58a00ec6da63247321.md",
@@ -202,12 +219,8 @@
     "https onlab94 tistory com 361 cdcd5740f5d14998b9206f5c8715f5f0.md",
     "https www youtube com watch v=W-cxtKRrpVg&list=PLl cbd38193fe1241349f10b58f3488f904.md",
     "콤보박스 데이터바인딩 ad5acc8a140a449f84428b083b56194a.md",
-    "https jasmintime com 406 568fb2058f6b4913a66578c0a53e95d6.md",
     "공부 자료 5bfbf41303094a3da82f2af7edc1f595_all.csv",
-    "WPF 16abaeb445d2406eb6d5b70ce6a12f93.md",
-    "C# 13b6ef4aafb04ecca3eef3673d7d1ddd.md",
     "coding",
-    "C_sharp/WPF .md",
     "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595_all.csv",
     "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595.csv",
     "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595",
