@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C_sharp/C sharp/✨ 일반화 프로그래밍.md",
+                "file": "C_sharp/C sharp/12. 예외처리.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C_sharp/C sharp/✨ 일반화 프로그래밍.md",
+                "file": "C_sharp/C sharp/12. 예외처리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C_sharp/C sharp/✨ 일반화 프로그래밍.md",
+                "file": "C_sharp/C sharp/12. 예외처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C_sharp/C sharp/✨ 일반화 프로그래밍.md"
+                "file": "C_sharp/C sharp/12. 예외처리.md"
               }
             }
           },
@@ -178,14 +178,15 @@
   },
   "active": "1e414e29d160dc93",
   "lastOpenFiles": [
-    "공부 목록/Todo.md",
-    "C_sharp/C sharp/✨ 일반화 프로그래밍.md",
-    "source",
-    "source/Pasted image 20230929161401.png",
+    "C_sharp/C sharp/11. ✨ 일반화 프로그래밍.md",
+    "C_sharp/C sharp/12. 예외처리.md",
+    "C_sharp/C sharp/method.md",
     "C_sharp/C sharp/프로퍼티.md",
     "C_sharp/C sharp/C#.md",
+    "공부 목록/Todo.md",
+    "source",
+    "source/Pasted image 20230929161401.png",
     "source/Pasted image 20230929155918.png",
-    "C_sharp/C sharp/method.md",
     "C_sharp/C sharp",
     "Git/0. git 정리.md",
     "Git/git 연결.md",
