@@ -11,6 +11,16 @@
             "id": "191277061cbfc663",
             "type": "leaf",
             "state": {
+              "type": "kanban",
+              "state": {
+                "file": "공부 목록/Todo.md"
+              }
+            }
+          },
+          {
+            "id": "1e414e29d160dc93",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "C_sharp/C sharp/✨ 일반화 프로그래밍.md",
@@ -27,7 +37,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,12 +176,13 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "191277061cbfc663",
+  "active": "1e414e29d160dc93",
   "lastOpenFiles": [
+    "공부 목록/Todo.md",
+    "C_sharp/C sharp/✨ 일반화 프로그래밍.md",
     "source",
     "source/Pasted image 20230929161401.png",
     "C_sharp/C sharp/프로퍼티.md",
-    "C_sharp/C sharp/✨ 일반화 프로그래밍.md",
     "C_sharp/C sharp/C#.md",
     "source/Pasted image 20230929155918.png",
     "C_sharp/C sharp/method.md",
@@ -178,7 +190,6 @@
     "Git/0. git 정리.md",
     "Git/git 연결.md",
     "Git/clone.md",
-    "공부 목록/Todo.md",
     "C_sharp/디자인패턴.md",
     "C_sharp/리팩토링.md",
     "C_sharp/Csharp.md",
