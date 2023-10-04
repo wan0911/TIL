@@ -1,6 +1,0 @@
-
-/Obsidian_note/Coding_note/Git/
-
-
-1. 공부 목록 & 일정 관리
-/Obsidian_note/Coding_note/공부 목록

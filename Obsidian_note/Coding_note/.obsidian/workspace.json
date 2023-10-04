@@ -11,9 +11,11 @@
             "id": "191277061cbfc663",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "공부 목록/Todo.md"
+                "file": "C_sharp/0. C sharp/0. Csharp.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -23,18 +25,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C_sharp/C sharp/12. 예외처리.md",
+                "file": "C_sharp/디자인패턴/디자인패턴.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "f0498e4d9e3ecc86",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -104,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C_sharp/C sharp/12. 예외처리.md",
+                "file": "C_sharp/디자인패턴/디자인패턴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C_sharp/C sharp/12. 예외처리.md",
+                "file": "C_sharp/디자인패턴/디자인패턴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C_sharp/C sharp/12. 예외처리.md"
+                "file": "C_sharp/디자인패턴/디자인패턴.md"
               }
             }
           },
@@ -176,28 +170,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1e414e29d160dc93",
+  "active": "9a382cce2ba2c841",
   "lastOpenFiles": [
-    "C_sharp/C sharp/11. ✨ 일반화 프로그래밍.md",
-    "C_sharp/C sharp/12. 예외처리.md",
-    "C_sharp/C sharp/method.md",
-    "C_sharp/C sharp/프로퍼티.md",
-    "C_sharp/C sharp/C#.md",
+    "C_sharp/1. NCD/0. NCD Layer.md",
+    "C_sharp/디자인패턴",
+    "C_sharp/0. C sharp/0. Csharp.md",
+    "C_sharp/0. C sharp/method.md",
+    "C_sharp/0. C sharp/프로퍼티.md",
     "공부 목록/Todo.md",
+    "C_sharp/C sharp/C.md",
+    "C_sharp/WPF .md",
+    "C_sharp/Csharp.md",
+    "C_sharp/0. C sharp/12. 예외처리.md",
+    "C_sharp/C.md",
+    "C_sharp/1. NCD",
+    "C_sharp/0. C sharp/11. ✨ 일반화 프로그래밍.md",
     "source",
     "source/Pasted image 20230929161401.png",
     "source/Pasted image 20230929155918.png",
-    "C_sharp/C sharp",
+    "C_sharp/0. C sharp",
     "Git/0. git 정리.md",
     "Git/git 연결.md",
     "Git/clone.md",
-    "C_sharp/디자인패턴.md",
+    "C_sharp/디자인패턴/디자인패턴.md",
     "C_sharp/리팩토링.md",
-    "C_sharp/Csharp.md",
-    "C_sharp/WPF .md",
     "Todo 1.md",
     "공부 목록",
-    "C_sharp/C.md",
     "clone.md",
     "옵시디언 플러그 리스트.md",
     "README.md",
@@ -207,9 +205,6 @@
     "0.test.md",
     "2023-09-29.md",
     ",..md",
-    "C# c818f593b4dd44aab395a09c5d26f3e2.md",
-    "디자인패턴 562a76b038fa46dd82212703a02fdc6b.md",
-    "제목 없음 3369c89140f34b58a00ec6da63247321.md",
     "Untitled 5 2.png",
     "Untitled 2 3.png",
     "Untitled 1 3.png",
@@ -221,8 +216,6 @@
     "공부 자료 5bfbf41303094a3da82f2af7edc1f595_all.csv",
     "coding",
     "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595_all.csv",
-    "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595.csv",
-    "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595",
-    "C_sharp/WPF"
+    "C_sharp/WPF/공부 자료 5bfbf41303094a3da82f2af7edc1f595.csv"
   ]
 }
