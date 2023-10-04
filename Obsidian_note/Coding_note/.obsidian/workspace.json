@@ -23,11 +23,9 @@
             "id": "1e414e29d160dc93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "C_sharp/디자인패턴/디자인패턴.md",
-                "mode": "source",
-                "source": false
+                "file": "공부 목록/Todo.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C_sharp/디자인패턴/디자인패턴.md",
+                "file": "공부 목록/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C_sharp/디자인패턴/디자인패턴.md",
+                "file": "공부 목록/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C_sharp/디자인패턴/디자인패턴.md"
+                "file": "공부 목록/Todo.md"
               }
             }
           },
@@ -170,8 +168,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9a382cce2ba2c841",
+  "active": "1e414e29d160dc93",
   "lastOpenFiles": [
+    "C_sharp/Biz.md",
+    "C_sharp/디자인패턴/디자인패턴.md",
     "C_sharp/1. NCD/0. NCD Layer.md",
     "C_sharp/디자인패턴",
     "C_sharp/0. C sharp/0. Csharp.md",
@@ -192,7 +192,6 @@
     "Git/0. git 정리.md",
     "Git/git 연결.md",
     "Git/clone.md",
-    "C_sharp/디자인패턴/디자인패턴.md",
     "C_sharp/리팩토링.md",
     "Todo 1.md",
     "공부 목록",

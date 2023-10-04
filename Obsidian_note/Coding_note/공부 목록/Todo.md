@@ -17,6 +17,8 @@ kanban-plugin: basic
 
 ## Mon
 
+- [ ] RDBMS
+- [ ] 식별, 비식별 관계
 
 
 ## Tue
