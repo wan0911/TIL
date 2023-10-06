@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Biz/스마트팩토리 특강.md",
+                "file": "99. Biz/SQL 특강.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Biz/스마트팩토리 특강.md",
+                "file": "99. Biz/SQL 특강.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Biz/스마트팩토리 특강.md",
+                "file": "99. Biz/SQL 특강.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Biz/스마트팩토리 특강.md"
+                "file": "99. Biz/SQL 특강.md"
               }
             }
           },
@@ -159,14 +159,15 @@
   },
   "active": "79e06552c272ef72",
   "lastOpenFiles": [
-    "99. Biz/BizActor 특강.md",
+    "공부목록.md",
+    "99. Biz/SQL 특강.md",
     "99. Biz/스마트팩토리 특강.md",
+    "99. Biz/BizActor 특강.md",
     "5. Git/4. etc.md",
     "5. Git/0. git 정리.md",
     "5. Git/3. branch.md",
     "5. Git/1. git 연결.md",
     "5. Git/2. push&pull.md",
-    "공부목록.md",
     "4. DB",
     "무제 폴더 1",
     "5. Git",
@@ -195,7 +196,6 @@
     "2. C_sharp/2. WPF/WPF .md",
     "2. C_sharp/0. C sharp/12. 예외처리.md",
     "C_sharp/C.md",
-    "2. C_sharp/0. C sharp/11. ✨ 일반화 프로그래밍.md",
     "999. source/Pasted image 20230929161401.png",
     "999. source/Pasted image 20230929155918.png",
     "Untitled 5 2.png",
