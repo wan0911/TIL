@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "08ef79cdd582ac84",
+        "id": "c16bea382d06cb02",
         "type": "tabs",
         "children": [
           {
-            "id": "79e06552c272ef72",
+            "id": "f0498e4d9e3ecc86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99. Biz/스마트팩토리 특강.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Biz/스마트팩토리 특강.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Biz/스마트팩토리 특강.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "99. Biz/스마트팩토리 특강.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,51 +145,50 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-to-notion:Share to notion": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "79e06552c272ef72",
+  "active": "f0498e4d9e3ecc86",
   "lastOpenFiles": [
-    "99. Biz/BizActor 특강.md",
-    "99. Biz/스마트팩토리 특강.md",
+    "공부 목록/Todo.md",
+    "C_sharp/C sharp/12. 예외처리.md",
+    "공부목록.md",
     "5. Git/4. etc.md",
-    "5. Git/0. git 정리.md",
     "5. Git/3. branch.md",
     "5. Git/1. git 연결.md",
     "5. Git/2. push&pull.md",
-    "공부목록.md",
-    "4. DB",
-    "무제 폴더 1",
+    "5. Git/0. git 정리.md",
     "5. Git",
-    "3. CS",
-    "RDBMS.md",
-    "README.md",
-    "2. C_sharp/Csharp.md",
-    "무제 파일.canvas",
-    "1. Python/0. 코딩테스트",
-    "1. Python",
-    "999. source/옵시디언 플러그 리스트.md",
-    "99. Biz/Biz.md",
-    "2. C_sharp/2. WPF",
-    "C_sharp/리팩토링.md",
-    "2. C_sharp/리팩토링",
-    "99. Biz",
-    "2. C_sharp/1. NCD/0. NCD Layer.md",
-    "conflict-files-obsidian-git.md",
-    "2. C_sharp/0. C sharp/0. Csharp.md",
-    "공부 목록/Todo.md",
     "2. C_sharp/디자인패턴/디자인패턴.md",
-    "2. C_sharp/디자인패턴",
-    "2. C_sharp/0. C sharp/method.md",
-    "2. C_sharp/0. C sharp/프로퍼티.md",
-    "C_sharp/C sharp/C.md",
     "2. C_sharp/2. WPF/WPF .md",
+    "2. C_sharp/1. NCD/0. NCD Layer.md",
+    "2. C_sharp/0. C sharp/프로퍼티.md",
+    "2. C_sharp/0. C sharp/method.md",
     "2. C_sharp/0. C sharp/12. 예외처리.md",
-    "C_sharp/C.md",
     "2. C_sharp/0. C sharp/11. ✨ 일반화 프로그래밍.md",
-    "999. source/Pasted image 20230929161401.png",
-    "999. source/Pasted image 20230929155918.png",
+    "2. C_sharp/0. C sharp/0. Csharp.md",
+    "2. C_sharp/디자인패턴",
+    "2. C_sharp/Csharp.md",
+    "2. C_sharp/2. WPF",
+    "2. C_sharp/1. NCD",
+    "2. C_sharp/0. C sharp",
+    "2. C_sharp",
+    "C_sharp/C sharp/11. ✨ 일반화 프로그래밍.md",
+    "C_sharp/C sharp/method.md",
+    "C_sharp/C sharp/프로퍼티.md",
+    "C_sharp/C sharp/C#.md",
+    "source",
+    "source/Pasted image 20230929161401.png",
+    "source/Pasted image 20230929155918.png",
+    "C_sharp/C sharp",
+    "Git/0. git 정리.md",
+    "Git/git 연결.md",
+    "Git/clone.md",
+    "C_sharp/디자인패턴.md",
+    "C_sharp/리팩토링.md",
+    "공부 목록",
+    "Git",
     "Untitled 5 2.png",
     "Untitled 2 3.png",
     "Untitled 1 3.png",
