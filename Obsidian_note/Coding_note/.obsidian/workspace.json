@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 311.5
   },
   "right": {
     "id": "3998b7281dae3204",
@@ -159,7 +159,16 @@
   },
   "active": "f0498e4d9e3ecc86",
   "lastOpenFiles": [
-    "Pasted image 20231010231907.png",
+    "999. Source/Pasted image 20231010234839.png",
+    "2. C_sharp/0. C sharp/15. LINQ.md",
+    "999. Source/Pasted image 20231010234912.png",
+    "999. Source/Pasted image 20231010232316.png",
+    "999. Source/Pasted image 20231010234652.png",
+    "999. Source/Pasted image 20231010234246.png",
+    "2. C_sharp/0. C sharp/16. 리플렉션.md",
+    "999. Source/Pasted image 20231010234041.png",
+    "999. Source/Pasted image 20231010232735.png",
+    "999. Source/Pasted image 20231010231907.png",
     "999. Source/Pasted image 20231010090933.png",
     "무제 폴더",
     "999. Source",
@@ -167,15 +176,8 @@
     "2. C_sharp/0. C sharp/9. 프로퍼티.md",
     "2. C_sharp/0. C sharp/11. ✨ 일반화 프로그래밍.md",
     "2. C_sharp/0. C sharp/12. 예외처리.md",
-    "2. C_sharp/0. C sharp/15. LINQ.md",
-    "2. C_sharp/0. C sharp/16. 리플렉션.md",
     "999. Source/Pasted image 20231010225717.png",
-    "999. Source/Pasted image 20231010225559.png",
     "conflict-files-obsidian-git.md",
-    "999. Source/Pasted image 20231010093021.png",
-    "999. Source/Pasted image 20231010092630.png",
-    "999. Source/Pasted image 20231010092239.png",
-    "999. Source/Pasted image 20231010091109.png",
     "4. DB/1. SQL/프로시저.md",
     "4. DB/1. SQL",
     "4. DB",
@@ -201,9 +203,6 @@
     "2. C_sharp/0. C sharp",
     "C_sharp/C sharp/11. ✨ 일반화 프로그래밍.md",
     "C_sharp/C sharp/method.md",
-    "C_sharp/C sharp/프로퍼티.md",
-    "source/Pasted image 20230929161401.png",
-    "source/Pasted image 20230929155918.png",
-    "Untitled 5 2.png"
+    "C_sharp/C sharp/프로퍼티.md"
   ]
 }
