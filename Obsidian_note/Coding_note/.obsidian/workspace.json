@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. Biz/SQL 특강.md",
+                "file": "2. C_sharp/0. C sharp/14. lambda식.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Biz/SQL 특강.md",
+                "file": "2. C_sharp/0. C sharp/14. lambda식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Biz/SQL 특강.md",
+                "file": "2. C_sharp/0. C sharp/14. lambda식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Biz/SQL 특강.md"
+                "file": "2. C_sharp/0. C sharp/14. lambda식.md"
               }
             }
           },
@@ -159,8 +159,19 @@
   },
   "active": "79e06552c272ef72",
   "lastOpenFiles": [
-    "공부목록.md",
+    "Pasted image 20231010093021.png",
+    "2. C_sharp/0. C sharp/15. LINQ.md",
+    "2. C_sharp/0. C sharp/14. lambda식.md",
+    "Pasted image 20231010092630.png",
+    "Pasted image 20231010092239.png",
+    "Pasted image 20231010091109.png",
+    "Pasted image 20231010090933.png",
+    "2. C_sharp/0. C sharp/프로퍼티.md",
+    "4. DB/1. SQL/프로시저.md",
+    "4. DB/1. SQL",
+    "999. source/Pasted image 20231010090437.png",
     "99. Biz/SQL 특강.md",
+    "공부목록.md",
     "99. Biz/스마트팩토리 특강.md",
     "99. Biz/BizActor 특강.md",
     "5. Git/4. etc.md",
@@ -189,22 +200,11 @@
     "2. C_sharp/0. C sharp/0. Csharp.md",
     "공부 목록/Todo.md",
     "2. C_sharp/디자인패턴/디자인패턴.md",
-    "2. C_sharp/디자인패턴",
     "2. C_sharp/0. C sharp/method.md",
-    "2. C_sharp/0. C sharp/프로퍼티.md",
-    "C_sharp/C sharp/C.md",
-    "2. C_sharp/2. WPF/WPF .md",
-    "2. C_sharp/0. C sharp/12. 예외처리.md",
-    "C_sharp/C.md",
     "999. source/Pasted image 20230929161401.png",
     "999. source/Pasted image 20230929155918.png",
     "Untitled 5 2.png",
     "Untitled 2 3.png",
-    "Untitled 1 3.png",
-    "Untitled 15.png",
-    "Untitled 11 2.png",
-    "Untitled 10 2.png",
-    "Untitled 9 2.png",
-    "Untitled 8 2.png"
+    "Untitled 1 3.png"
   ]
 }
