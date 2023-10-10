@@ -118,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -149,8 +151,10 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "f0498e4d9e3ecc86",
+  "active": "9a382cce2ba2c841",
   "lastOpenFiles": [
+    "1. Python",
+    "conflict-files-obsidian-git.md",
     "공부 목록/Todo.md",
     "C_sharp/C sharp/12. 예외처리.md",
     "공부목록.md",
@@ -185,8 +189,6 @@
     "Git/0. git 정리.md",
     "Git/git 연결.md",
     "Git/clone.md",
-    "C_sharp/디자인패턴.md",
-    "C_sharp/리팩토링.md",
     "공부 목록",
     "Git",
     "Untitled 5 2.png",
