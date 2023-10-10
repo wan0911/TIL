@@ -11,8 +11,12 @@
             "id": "f0498e4d9e3ecc86",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2. C_sharp/0. C sharp/15. LINQ.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2. C_sharp/0. C sharp/15. LINQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2. C_sharp/0. C sharp/15. LINQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "2. C_sharp/0. C sharp/15. LINQ.md"
               }
             }
           },
@@ -151,20 +157,29 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "9a382cce2ba2c841",
+  "active": "f0498e4d9e3ecc86",
   "lastOpenFiles": [
-    "Pasted image 20231010093021.png",
-    "Pasted image 20231010092630.png",
-    "Pasted image 20231010092239.png",
-    "Pasted image 20231010091109.png",
-    "Pasted image 20231010090933.png",
+    "Pasted image 20231010231907.png",
+    "999. Source/Pasted image 20231010090933.png",
+    "무제 폴더",
+    "999. Source",
+    "2. C_sharp/0. C sharp/14. lambda식.md",
+    "2. C_sharp/0. C sharp/9. 프로퍼티.md",
+    "2. C_sharp/0. C sharp/11. ✨ 일반화 프로그래밍.md",
+    "2. C_sharp/0. C sharp/12. 예외처리.md",
+    "2. C_sharp/0. C sharp/15. LINQ.md",
+    "2. C_sharp/0. C sharp/16. 리플렉션.md",
+    "999. Source/Pasted image 20231010225717.png",
+    "999. Source/Pasted image 20231010225559.png",
+    "conflict-files-obsidian-git.md",
+    "999. Source/Pasted image 20231010093021.png",
+    "999. Source/Pasted image 20231010092630.png",
+    "999. Source/Pasted image 20231010092239.png",
+    "999. Source/Pasted image 20231010091109.png",
     "4. DB/1. SQL/프로시저.md",
     "4. DB/1. SQL",
     "4. DB",
-    "2. C_sharp/0. C sharp/15. LINQ.md",
-    "2. C_sharp/0. C sharp/14. lambda식.md",
     "1. Python",
-    "conflict-files-obsidian-git.md",
     "공부 목록/Todo.md",
     "C_sharp/C sharp/12. 예외처리.md",
     "공부목록.md",
@@ -177,27 +192,18 @@
     "2. C_sharp/디자인패턴/디자인패턴.md",
     "2. C_sharp/2. WPF/WPF .md",
     "2. C_sharp/1. NCD/0. NCD Layer.md",
-    "2. C_sharp/0. C sharp/프로퍼티.md",
     "2. C_sharp/0. C sharp/method.md",
-    "2. C_sharp/0. C sharp/12. 예외처리.md",
-    "2. C_sharp/0. C sharp/11. ✨ 일반화 프로그래밍.md",
     "2. C_sharp/0. C sharp/0. Csharp.md",
     "2. C_sharp/디자인패턴",
     "2. C_sharp/Csharp.md",
     "2. C_sharp/2. WPF",
     "2. C_sharp/1. NCD",
     "2. C_sharp/0. C sharp",
-    "2. C_sharp",
     "C_sharp/C sharp/11. ✨ 일반화 프로그래밍.md",
     "C_sharp/C sharp/method.md",
     "C_sharp/C sharp/프로퍼티.md",
-    "C_sharp/C sharp/C#.md",
-    "source",
     "source/Pasted image 20230929161401.png",
     "source/Pasted image 20230929155918.png",
-    "Untitled 5 2.png",
-    "Untitled 2 3.png",
-    "Untitled 1 3.png",
-    "Untitled 15.png"
+    "Untitled 5 2.png"
   ]
 }
